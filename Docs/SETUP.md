@@ -2,7 +2,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Princely24/BudgetIQ_FinanceTracker_POE.git
+   git clone https://github.com/aime-ishimwe/SA_INTERVARSITY_HACKATHON_FinTech_Budget_App
    ```
 
 2. **Open the project in Android Studio**
