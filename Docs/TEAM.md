@@ -14,4 +14,6 @@
 #### **IIE Rosebank College**
 
 ## 📧 Other Contact Info
-- GitHub Repo: <https://github.com/aime-ishimwe/SA_INTERVARSITY_HACKATHON_FinTech_Budget_App>
+Aime Ndumuhire: https://github.com/aime-ishimwe
+Princely Makhwara: https://github.com/Princely24
+Enrique Arendse: https://github.com/Rique14
