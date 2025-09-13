@@ -2,7 +2,7 @@
 
 ## 🎯 BudgetIQ
 
-#### **SAIntervarsityHackathonExampleSubmission2025**
+
 
 ## 🚀 Summary
 
