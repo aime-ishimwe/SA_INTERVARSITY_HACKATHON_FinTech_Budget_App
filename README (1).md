@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Material Design 3 for the modern UI components
 - Android Jetpack libraries
-- All contributors who help improve BudgetIQ
+- All contributors who help improve BudgetIQ.
 
 ---
 
