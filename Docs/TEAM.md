@@ -8,7 +8,7 @@
 |----------|---------------------|-----------------------|-------------------|-------------|
 | **Aime Ndumuhire**   | Backend Developer   | IIE Rosebank College | aime5757 | <aimeishimwe9@gmail.com> |
 | **Princely Makhwara**   | Backend/Frontend Developer  | University of Cape Town | princem24 | <princelymakhwara@gmail.com> |
-| **Enrique Arendse **   | Designer/Frontend Developer | University of Johannesburg | rique_0044 | <enriquearendse031@gmail.com> |
+| **Enrique Arendse**   | Designer/Frontend Developer | University of Johannesburg | rique_0044 | <enriquearendse031@gmail.com> |
 
 ## 🏫 Institution
 #### **IIE Rosebank College**
