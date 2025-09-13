@@ -14,6 +14,6 @@
 #### **IIE Rosebank College**
 
 ## 📧 Other Contact Info
-Aime Ndumuhire: https://github.com/aime-ishimwe
-Princely Makhwara: https://github.com/Princely24
+Aime Ndumuhire: https://github.com/aime-ishimwe <br>
+Princely Makhwara: https://github.com/Princely24 <br>
 Enrique Arendse: https://github.com/Rique14
